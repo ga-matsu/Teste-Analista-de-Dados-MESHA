@@ -31,6 +31,3 @@ Critérios avaliadas:
 6. Qual a média por disciplina?
 7. Qual a média por Sexo?
 8. Qual a média por Etnia?
-
-
-<iframe title="Case Mesha - Gabriel Matsumoto" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTM0YTViZDktM2UzZi00MGRlLWI2M2ItYjUyNGQ5NjZhYTk0IiwidCI6ImZiMmQwZjQwLTJhY2UtNDAyZi04OGZhLTM2NGE4ODg0NWUxMiJ9" frameborder="0" allowFullScreen="true"></iframe>
